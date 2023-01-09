@@ -1,0 +1,27 @@
+{
+  "name": "input_component",
+  "version": "1.0.0",
+  "description": "a devchallenge project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zerebel/input_component.git"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "jsx",
+    "react",
+    "vite",
+    "zerebel"
+  ],
+  "author": "Zerebel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zerebel/input_component/issues"
+  },
+  "homepage": "https://github.com/Zerebel/input_component#readme"
+}
