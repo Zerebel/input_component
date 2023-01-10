@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://zerebel.github.io/button_components/">
+    <a href="https://zerebel.github.io/input_component/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/NFPoP9farspcBkOcla6X">
+    <a href="https://devchallenges.io/solutions/5ux2bQdcG0fehzbu8t64">
       Solution
     </a>
     <span> | </span>
@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](./screenshot.png)
+![screenshot](screenshot.png)
 
 ### Built With
 
@@ -79,4 +79,4 @@ $ npm start
 ## Contact
 
 - GitHub [@Zerebel](https://github.com/zerebel)
-- Twitter [@Zerebel_](https://twitter.com/zerebel_)
+- Twitter [@Zerebel\_](https://twitter.com/zerebel_)
